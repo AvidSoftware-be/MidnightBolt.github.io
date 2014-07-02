@@ -5,7 +5,7 @@ tagline: An introduction.
 date:   2014-07-01 21:20:05
 author: Dennis Decoene
 category: personal
-tags: [intro]
+tags: [Intro]
 ---
 {% include JB/setup %}
 

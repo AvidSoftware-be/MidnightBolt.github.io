@@ -44,7 +44,7 @@ Let me tell you this: their statement is partially honest and partially bullshit
 
 But NAV is much more than that.
 
-In its roots, it is a framework for developing applications. Business applications. On top of that framework Microsoft built a business management application. When you buy a licence from a partner, you get the framework PLUS the source code of that complete management application. You thus also have the power to change the behaviour of the application to suit your own needs. How cool is that?
+In its roots, it is a framework for developing applications. Business applications. On top of that framework Microsoft built a business management application. When you buy a license from a partner, you get the framework PLUS the source code of that complete management application. You thus also have the power to change the behaviour of the application to suit your own needs. How cool is that?
 
 There are some downsides though. The language of choice is a proprietary language called C/AL and the development environment C/SIDE. While they are not that hard to learn, it is still hard to find good, experienced developers. C/AL has its peculiarities and we see a lot of starting developers make the same mistakes.
 
