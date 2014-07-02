@@ -7,3 +7,4 @@ group: navigation
  * **Name:** Dennis Decoene
  * **Email:** [dennis.decoene@gmail.com](mailto:dennis.decoene@gmail.com)
  * **Github:** [MidnightBolt](https://github.com/MidnightBolt)
+ * **LinkedIn:** [Dennis Decoene](http://be.linkedin.com/in/dennisdecoene/)
