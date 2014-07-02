@@ -3,32 +3,32 @@
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-pygments: true
+highlighter: pugments
 
 markdown: kramdown
 
 # The title and tagline is showed on homepage
 #
-title :  Simpleyyt 
-tagline: Yitao's Blog
+title :  MidnightBlog
+tagline: MidnightBolt's Blog
 
 # Information about author
 #
 author :
-  name : Yitao Yao
+  name : Dennis Decoene
   
 # Information for contacts
 #
 contact :
-  e-mail : mailto:simpleyyt@gmail.com
-  Github : https://github.com/Simpleyyt
-  WeiBo : http://www.weibo.com/u/1836017133
-  Google+ : https://plus.google.com/103860633659538888207?rel=author
+  e-mail : mailto:dennis.decoene@gmail.com
+  Github : https://github.com/MidnightBolt
+  #WeiBo : http://www.weibo.com/u/1836017133
+  #Google+ : https://plus.google.com/103860633659538888207?rel=author
   
 # Links showed on the footer
 #
 links :
-  Yitao's Blog : http://simpleyyt.github.io/
+  MidnightBolt's Blog : http://MidnightBolt.github.io/
 
 # The search engine. Only support google custom search engine.
 #
@@ -48,7 +48,7 @@ search :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://simpleyyt.github.io
+production_url : http://MidnightBolt.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -105,11 +105,11 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : duoshuo
+    provider : disqus
     duoshuo :
       short_name : simpleyyt
     disqus :
-      short_name : simpleyyt
+      short_name : midnightboltblog
     livefyre :
       site_id : 123
     intensedebate :
@@ -125,7 +125,7 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #        
   analytics :
-    provider : google 
+    provider : false 
     google : 
         tracking_id : 'UA-123-12'
     getclicky :
