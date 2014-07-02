@@ -7,6 +7,8 @@ author: Dennis Decoene
 category: personal
 tags: [intro]
 ---
+{% include JB/setup %}
+
 Well I got Jekyll up and running in two hours. Ready to start blogging in the future. I will also put my resume here and some ideas I have for projects.
 While at it, I might also share some of the things I'm working on.
 
