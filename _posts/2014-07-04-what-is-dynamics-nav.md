@@ -2,7 +2,7 @@
 layout: post
 title:  "What is Microsoft Dynamics NAV?"
 tagline: An introduction.
-date:   2014-07-02 00:00:00
+date:   2014-07-04 00:00:00
 author: Dennis Decoene
 category: Tech
 tags: [Intro,NAV]
