@@ -43,10 +43,9 @@ Their statement is mostly right. But it does not give you the answers you are lo
 	
 7. whether it's in the cloud or on your servers. --> True
 
-    We are used to having a humongous server park wich give us headaches. But does it really need to be that way? Not anymore. With [Microsoft Azure](http://azure.microsoft.com/en-us/) and other could hosting partners, you can provision servers, expand the capacity, shrink the capacity, delete it, spin up a test server, all from your browser. Magic.
+    We are used to having a humongous server park wich gives us headaches. But does it really need to be that way? Not anymore. With [Microsoft Azure](http://azure.microsoft.com/en-us/) and other could hosting partners, you can provision servers, expand the capacity, shrink the capacity, delete it, spin up a test server, all from your browser. Magic.
     
-    
-But NAV is much more than that.
+But NAV is so much more than that.
 
 In its roots, it is a framework for developing applications. Business applications. On top of that framework Microsoft built a business management application. When you buy a license from a partner, you get the framework PLUS the source code of that complete management application. You thus also have the power to change the behaviour of the application to suit your own needs. How cool is that?
 
