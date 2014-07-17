@@ -35,9 +35,49 @@ So let's get cracking ;-) If you don't know about git, what it is or what it doe
 	* In NAV, open a standard database of the version the customisations where based on.
 	* Export all the objects to a txt file.
 	* Use WinNavObjectSplitter to split the file. Split them to the folder you created the repo in.
-	* Open "Git GUI" again and open the repo.Click "Stage changed".
-	* Enter a commit message like "Dynamics NAV Vxx".
+	* Open "Git GUI" again and open the repo. Click "Stage changed".
+	* Enter a commit message like "Dynamics NAV V50".
 	* Commit this version.
 	
 3. Step Three, get the custom version in the repo.
 --------------------------------------------------
+	
+	* Create a new branch in the repo, call it *Custom*.
+	* Make sure you check out branch Custom.
+	* Delete all the `.txt` files in the folder where the repo lives.
+	* Open the customized database in NAV.
+	* Export all the objects to a txt file.
+	* Use WinNavObjectSplitter to split the file. Split them to the folder you created the repo in.
+	* Open "Git GUI" again and open the repo. Click "Stage changed".
+	* Enter a commit message like "Dynamics NAV V50 CUSTOM".
+	* Commit this version.
+
+4. Step Four, get the new base version in the repo.
+---------------------------------------------------
+
+	* In Git switch back to the *Master* branch.
+	* Open the new standard database in NAV.
+	* Export all the objects to a txt file.
+	* Use WinNavObjectSplitter to split the file. Split them to the folder you created the repo in.
+	* Open "Git GUI" again and open the repo. Click "Stage changed".
+	* Enter a commit message like "Dynamics NAV V60".
+	* Commit this version.
+	
+5. Step Five, merge the customizations in the branches.
+-------------------------------------------------------
+
+	* In GitGUI, click Merge in the menu, then Local Merge.
+	* Make sure you see `merge into master` in the top of the window. If not, you probably did not checkout the master branch.
+	* Select `Custom` as the local branch.
+	* Click *Merge*.
+	* There will be a lot of conflicts, but also a lot of will have been done for you.
+	* Resolve the conflicts by editing the `.txt` files.
+	* For each file you resolved, click *commit* in the menu and then *stage for commit*.
+	* Commit this version when all files are staged.
+	
+6. Step Six, get the merged codebase in NAV.
+--------------------------------------------
+
+	* Use WinNavObjectSplitter to join the files.
+	* In NAV open a standard, new version, database.
+	* Follow the steps according to the upgrade manual.
