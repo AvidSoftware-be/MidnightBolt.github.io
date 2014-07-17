@@ -15,7 +15,7 @@ According to the Microsoft website it is this:
 
 >Microsoft Dynamics NAV is a multi-language, multi-currency business management solution that helps small and mid-sized businesses manage their financials, supply chain, and people to create experiences that delight their customers. It is quick to implement and easy to use, with the power to support your growth ambitions. Start with what you need today and add what you need later—whether it's in the cloud or on your servers.
 
-Their statement is mostly right. But it does not give you the answers you are looking for, that I'm certain of. Let's dissassemble Microsoft's claim.
+Their statement is mostly right. But it does not give you the answers you are looking for, that I'm certain of. Let's disassemble Microsoft's claim.
 
 1. multi-language, multi-currency business management solution --> True.
 
@@ -31,7 +31,7 @@ Their statement is mostly right. But it does not give you the answers you are lo
 
 4. It is quick to implement --> Partial BS
 
-    I've never implemented a completely standard NAV. In theory you can just install the clients and a server and you are running. But you have to set the settings and probably wwant customisation here and there so there will be an analysis, development, implementation phase which will take time.
+    I've never implemented a completely standard NAV. In theory you can just install the clients and a server and you are running. But you have to set the settings and probably want customization here and there so there will be an analysis, development, implementation phase which will take time.
 	
 5. easy to use, with the power to support your growth ambitions --> True
     
@@ -43,11 +43,11 @@ Their statement is mostly right. But it does not give you the answers you are lo
 	
 7. whether it's in the cloud or on your servers. --> True
 
-    We are used to having a humongous server park wich gives us headaches. But does it really need to be that way? Not anymore. With [Microsoft Azure](http://azure.microsoft.com/en-us/) and other could hosting partners, you can provision servers, expand the capacity, shrink the capacity, delete it, spin up a test server, all from your browser. Magic.
+    We are used to having a humongous server park which gives us headaches. But does it really need to be that way? Not anymore. With [Microsoft Azure](http://azure.microsoft.com/en-us/) and other could hosting partners, you can provision servers, expand the capacity, shrink the capacity, delete it, spin up a test server, all from your browser. Magic.
     
 But NAV is so much more than that.
 
-In its roots, it is a framework for developing applications. Business applications. On top of that framework Microsoft built a business management application. When you buy a license from a partner, you get the framework PLUS the source code of that complete management application. You thus also have the power to change the behaviour of the application to suit your own needs. How cool is that?
+In its roots, it is a framework for developing applications. Business applications. On top of that framework Microsoft built a business management application. When you buy a license from a partner, you get the framework PLUS the source code of that complete management application. You thus also have the power to change the behavior of the application to suit your own needs. How cool is that?
 
 There are some downsides though. The language of choice is a proprietary language called C/AL and the development environment C/SIDE. While they are not that hard to learn, it is still hard to find good, experienced developers. C/AL has its peculiarities and we see a lot of starting developers make the same mistakes.
 
@@ -55,5 +55,5 @@ In other languages and technologies, you have a plethora of communities, fora an
 
 So executives remember that NAV is a full suite ERP system. Users remember you can work smarter and faster. Developers remember you have a complete development environment along with an easy to understand application to build on.
 
-NAV is in my opinion the best management software for smaal and medium companies. MS is not lying...
+NAV is in my opinion the best management software for small and medium companies. MS is not lying...
 
