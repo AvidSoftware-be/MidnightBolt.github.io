@@ -17,4 +17,4 @@ Please have a look at my LinkedIn profile. It is very Dynamics NAV oriented but 
 Credits:
 ====
 
-Thanks to [Simpleyyt's template](https://github.com/Simpleyyt/simpleyyt.github.io) that I forked, I was able to create this website. Als thanks to Github for providing all the high quality tools I work with. The favicon I'm using comes from [The Noun Project](http://thenounproject.com/term/blog/4618/).
+Thanks to [Simpleyyt's template](https://github.com/Simpleyyt/simpleyyt.github.io) that I forked, I was able to create this website. Also thanks to Github for providing all the high quality tools I work with. The favicon I'm using comes from [The Noun Project](http://thenounproject.com/term/blog/4618/).
