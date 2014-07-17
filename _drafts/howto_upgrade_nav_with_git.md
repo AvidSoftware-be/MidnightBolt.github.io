@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Howto upgrade Dynamics NAV code with Git"
-tagline: XXX easy steps.
-date:   2014-07-02 00:00:00
+tagline: Six easy steps.
+date:   2014-07-16 00:00:00
 author: Dennis Decoene
 category: Tech
 tags: [NAV,Upgrade]
